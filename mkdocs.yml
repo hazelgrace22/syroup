@@ -7,6 +7,6 @@ nav:
         - Chicken Rice: rec/chickenrice.md
         - Chicken Garlic: rec/chickengar.md
     - Appreciation: appr.md
-theme: readthedocs
+theme: material
 plugins:
   - search
