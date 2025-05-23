@@ -2,10 +2,13 @@ site_name: Resepi 101
 nav:
     - Home: index.md
     - About: about.md
-    - Recipe:
-        - rec/recipe.md
+    - Chicken Recipe:
+        - Chicken Soup: rec/chickensoup.md
         - Chicken Rice: rec/chickenrice.md
         - Chicken Garlic: rec/chickengar.md
+    - Fish Recipe:
+        - Fish Sambal: fishrec/fishsambal.md
+        - Steamed Fish: fishrec/fishsteam.md
     - Appreciation: appr.md
 theme: material
 plugins:
