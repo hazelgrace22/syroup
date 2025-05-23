@@ -1,5 +1,9 @@
-site_name: MkLorum
+site_name: Resepi 101
 nav:
     - Home: index.md
     - About: about.md
+    - Recipe:
+        - Chickenrice: 'rec/chickenrice.md'
+        - Chickengarlic: 'rec/chickengar.md'
+    - Appreciation: appr.md
 theme: readthedocs
