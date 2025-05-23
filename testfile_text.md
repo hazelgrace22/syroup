@@ -12,3 +12,7 @@ Alt-H1
 
 Alt-H2
 ------
+
+**This is bold text**
+
+__This is bold text__
