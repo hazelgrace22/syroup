@@ -13,4 +13,3 @@ nav:
 theme: material
 plugins:
   - search
-  - section-index
