@@ -2,6 +2,12 @@ site_name: Resepi 101
 nav:
     - Home: index.md
     - About: about.md
-    - rec/*
+    - Recipe:
+        - rec/recipe.md
+        - Chicken Rice: rec/chickenrice.md
+        - Chicken Garlic: rec/chickengar.md
     - Appreciation: appr.md
 theme: readthedocs
+plugins:
+  - search
+  - section-index
