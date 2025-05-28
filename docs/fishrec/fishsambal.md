@@ -6,20 +6,20 @@ Cook Time: 20 minutes
 Total Time: 30 minutes  
 
 **Ingredients:**
-* 2–4 fish fillets (mackerel, snapper, tilapia, or any firm white fish)
-* Salt and turmeric powder for seasoning
+* 2–4 fish fillets (mackerel, snapper, tilapia, or any firm white fish)  
+* Salt and turmeric powder for seasoning  
 * 2 tablespoons oil  
   
-For the Sambal Sauce:
-* 5–6 dried red chilies (soaked in hot water for 10 mins) or 2–3 fresh red chilies (adjust to taste)
-* 2 shallots or 1 small onion
-* 2 cloves garlic
-* 1 teaspoon belacan (fermented shrimp paste) optional but authentic
-* 1 small tomato (or 1 tbsp tomato paste)
-* 1 tablespoon tamarind juice (or 1 tsp lime juice)
-* 1 teaspoon sugar (to balance the heat)
-* Salt to taste
-* 2 tablespoons oil (for frying the sambal)
+For the Sambal Sauce:  
+* 5–6 dried red chilies (soaked in hot water for 10 mins) or 2–3 fresh red chilies (adjust to taste)  
+* 2 shallots or 1 small onion  
+* 2 cloves garlic  
+* 1 teaspoon belacan (fermented shrimp paste) optional but authentic  
+* 1 small tomato (or 1 tbsp tomato paste)  
+* 1 tablespoon tamarind juice (or 1 tsp lime juice)  
+* 1 teaspoon sugar (to balance the heat)  
+* Salt to taste  
+* 2 tablespoons oil (for frying the sambal)  
 
 **Instructions:**
 1. Season the fish:
