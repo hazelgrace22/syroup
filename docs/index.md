@@ -1,17 +1,24 @@
-# Welcome to Resepi 101
+# Welcome to Cash.io
 
-Welcome to a world of flavors, where each recipe is an invitation to explore new tastes, create lasting memories, and celebrate the joy of cooking. Whether you're a seasoned chef or someone just starting their culinary adventure, this book is for you. Inside, you'll find a collection of recipes that are as diverse as they are delicious, ranging from comforting classics to bold, innovative dishes that are sure to spark your imagination.
+Welcome to Cash.io App!
+Your all-in-one solution for fast, secure, and easy money transfers. This guide will walk you through how to get started and use key features.
 
-Cooking is more than just a skill—it's an experience. It's about experimenting with ingredients, sharing meals with loved ones, and finding joy in every step of the process. Every recipe here has been crafted with care, designed to inspire confidence in the kitchen and bring a sense of accomplishment to the table.
+What you can do:
 
-As you flip through these pages, you'll discover that cooking doesn't have to be complicated to be extraordinary. With simple, easy-to-follow instructions and tips to elevate your meals, you'll quickly learn how to bring out the best in each ingredient and create meals that taste as good as they look.
+* Send & receive money
 
-So, grab your apron, gather your ingredients, and get ready to embark on a culinary journey. The kitchen is your playground—let's make something unforgettable.
+* Link bank accounts & cards
+
+* Pay bills
+
+* View transactions
+
+* Secure your account
 
 ## Prepared by
 
-**Syafiqah**
+**Syafiqah H.**
 
 ## Disclaimer
 
-*The recipes provided are not mine.*
+*This is a dummy app*
