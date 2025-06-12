@@ -1,17 +1,25 @@
-## Bahan-bahan
+# Getting Started
 
-**Bahan Untuk Ayam (Direbus)**
+## Download & Install
 
-* 1 ekor ayam dipotong 8
-* 2 ulas bawang putih, ditumbuk halus
-* 2 cm halia, ditumbuk halus
-* 1 kiub ayam
+*Available on iOS and Android*
 
-**Bahan Untuk Ayam (Diperap)**
+Search for Cash.io app in the App Store or Google Play
 
-* 1 sudu besar kicap pekat
-* 1 sudu besar sos tiram
-* 1 cm halia, ditumbuk halus
-* 2 ulas bawang putih, ditumbuk halus
-* 1 sudu besar kicap cair
-* Sedikit madu untuk sapuan
+
+## Create an Account
+
+1. Open the Cash.io app.
+
+2. Enter your mobile number or email.
+
+3. Enter the verification code sent to you.
+
+4. Set a secure password or passcode.
+
+
+## Link a Payment Method
+
+1. Go to **Settings** > **Payment Methods**.
+
+2. Add your debit card or bank account.
