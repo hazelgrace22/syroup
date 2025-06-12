@@ -1,37 +1,60 @@
-## Chicken Soup
+# Managing Cards and Bank Accounts
 
-Servings: 4–6  
-Prep Time: 10 minutes  
-Cook Time: 40 minutes  
-Total Time: 50 minutes
+## How to Add a Debit Card or Bank Account
 
-**Ingredients:**
-* 1 tablespoon olive oil
-* 1 small onion, diced
-* 2 cloves garlic, minced
-* 2 carrots, peeled and sliced
-* 2 celery stalks, sliced
-* 6 cups chicken broth (store-bought or homemade)
-* 2 cups cooked chicken (shredded or diced; rotisserie chicken works great)
-* 1 teaspoon salt (adjust to taste)
-* ½ teaspoon black pepper
-* ½ teaspoon dried thyme (optional)
-* 1 bay leaf (optional)
-* 1 cup egg noodles or small pasta (optional)
-* Fresh parsley for garnish (optional)
+### For Debit/Credit Cards:
 
-Instructions:
-1. Sauté the vegetables:
-In a large pot, heat olive oil over medium heat. Add the onion, garlic, carrots, and celery. Cook for 5–7 minutes, until the vegetables are slightly softened.
+1. Open the Cash.io app on your device.
 
-2. Add the broth and seasonings:
-Pour in the chicken broth. Add salt, pepper, thyme, and bay leaf. Bring to a boil.
+2. Tap the profile icon in the top-right corner (or tap your profile photo if shown).
 
-3. Add chicken and simmer:
-Reduce heat to a simmer. Stir in the cooked chicken. Let it simmer gently for about 20 minutes to allow the flavors to meld.
+3. Scroll down and select **Payment Methods**.
 
-4. Add noodles (optional):
-If using noodles, add them in the last 10 minutes of cooking. Cook until tender.
+4. Tap **Add Debit Card**.
 
-5. Taste and serve:
-Remove the bay leaf, taste the soup, and adjust seasoning if needed. Ladle into bowls and garnish with fresh parsley if desired.
+5. Enter your card number, expiration date, CVV, and ZIP code.
+
+6. Tap **Add Card** to confirm.
+
+***Tip: Make sure your card is active and not expired.***
+
+### For Bank Accounts:
+
+1. From Payment Methods, tap **Link Bank Account**.
+
+2. Choose your bank from the list or use the manual entry option. If prompted, log in securely through your bank’s portal (uses Plaid or similar service).  
+
+Alternatively, enter:
+
+  1. Routing Number
+
+  2. Account Number
+
+  3. Account Type (Checking/Savings)
+
+  4. Tap **Confirm** to complete the setup.
+
+## How to Remove or Replace a Card/Bank Account
+
+### To Remove a Card:
+
+1. Open the Cash App.
+
+1. Tap your profile icon.
+
+2. Go to Payment Methods.
+
+3. Select the card you want to remove.
+
+4. Tap the three dots (⋮) in the top corner.
+
+5. Choose **Remove Card**.
+
+6. Confirm removal when prompted.
+
+### To Replace a Card:
+
+1. Remove the existing card (follow steps above).
+
+2. Tap **Add New Card** and enter the new card details.
+
