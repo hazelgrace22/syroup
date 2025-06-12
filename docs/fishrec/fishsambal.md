@@ -1,41 +1,35 @@
-## Fish Sambal
+# Pay a Bill
 
-Servings: 2–4  
-Prep Time: 10 minutes  
-Cook Time: 20 minutes  
-Total Time: 30 minutes  
+1. Open the Cash.io app.
 
-**Ingredients:**
-* 2–4 fish fillets (mackerel, snapper, tilapia, or any firm white fish)
-* Salt and turmeric powder for seasoning
-* 2 tablespoons oil  
-  
-For the Sambal Sauce:
-* 5–6 dried red chilies (soaked in hot water for 10 mins) or 2–3 fresh red chilies (adjust to taste)
-* 2 shallots or 1 small onion
-* 2 cloves garlic
-* 1 teaspoon belacan (fermented shrimp paste) optional but authentic
-* 1 small tomato (or 1 tbsp tomato paste)
-* 1 tablespoon tamarind juice (or 1 tsp lime juice)
-* 1 teaspoon sugar (to balance the heat)
-* Salt to taste
-* 2 tablespoons oil (for frying the sambal)
+2. Tap the **Pay** icon. This takes you to the Bill Payment Dashboard.
 
-**Instructions:**
-1. Season the fish:
-Rub fish fillets with a pinch of salt and turmeric. Set aside for 5–10 minutes.
+3. Select **Add a Biller**. Choose from your list of previously paid billers or tap **Add New Biller**.
 
-2. Prepare the sambal paste:
-Blend soaked chilies, shallots/onion, garlic, tomato, and belacan into a smooth paste. Add a splash of water if needed.
+  **To Add a New Biller:**
 
-3. Fry the fish:
-Heat 2 tablespoons of oil in a pan over medium heat. Fry the fish on both sides until golden and cooked through (about 3–4 minutes per side). Remove and set aside.
+  * Search by name (e.g., “Verizon,” “Con Edison,” “Capital One”).
 
-4. Cook the sambal:
-In the same pan, add a bit more oil if needed. Fry the sambal paste over medium heat, stirring often, until the oil separates and the paste is fragrant (about 5–7 minutes).
+  * Select the correct provider from the search results.
 
-5. Season the sambal:
-Stir in tamarind juice, sugar, and salt. Taste and adjust—sambal should be spicy, tangy, and slightly sweet.
+4. Enter Your Account Details:
+   
+    1. Input the account number or customer ID used by your biller.
 
-6. Combine and serve:
-Return the fried fish to the pan, spoon the sambal over the top, and let it simmer together for 2–3 minutes.
+    2. Confirm the billing zip code or any other required identifier.
+
+    3. Tap **Continue**.
+
+5. Enter payment amount and tap **Next**.
+
+6. Confirm payment details:
+
+  * Biller name
+
+  * Payment amount
+
+  * Payment method
+
+
+7. Tap **Pay Now**. Payment will appear in your *Activity* tab.
+
